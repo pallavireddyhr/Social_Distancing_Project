@@ -6,3 +6,7 @@ YOLO weights link: https://drive.google.com/file/d/1aNfKhOmnBu_HTJiA7rYE01ZhBVuE
 
 Output : https://drive.google.com/file/d/1-ENiTYto88s21Fb05zIXOdmpso_-pDrP/view?usp=share_link
 
+
+
+https://user-images.githubusercontent.com/67084553/218296637-3ff03058-e18b-47a7-8b89-1d4bec32c8d5.mp4
+
